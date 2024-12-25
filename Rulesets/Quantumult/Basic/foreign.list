@@ -6,6 +6,7 @@ host-keyword,youtube,proxy
 host-keyword,facebook,proxy
 host-suffix,fb.me,proxy
 host-suffix,fbcdn.net,proxy
+host-suffix,x.com,proxy
 host-keyword,twitter,proxy
 host-keyword,instagram,proxy
 host-keyword,dropbox,proxy

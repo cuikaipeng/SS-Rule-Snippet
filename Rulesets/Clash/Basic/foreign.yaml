@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,dropbox
